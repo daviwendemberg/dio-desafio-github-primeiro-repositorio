@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/demos.csproj": {}
+  },
+  "projects": {
+    "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/demos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/demos.csproj",
+        "projectName": "demos",
+        "projectPath": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/demos.csproj",
+        "packagesPath": "/home/davi/.nuget/packages/",
+        "outputPath": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/davi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

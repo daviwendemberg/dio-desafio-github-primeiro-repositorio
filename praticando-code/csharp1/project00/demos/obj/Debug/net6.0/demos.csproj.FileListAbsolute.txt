@@ -1,0 +1,15 @@
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/bin/Debug/net6.0/demos
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/bin/Debug/net6.0/demos.deps.json
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/bin/Debug/net6.0/demos.runtimeconfig.json
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/bin/Debug/net6.0/demos.dll
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/bin/Debug/net6.0/demos.pdb
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.csproj.AssemblyReference.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.AssemblyInfoInputs.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.AssemblyInfo.cs
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.csproj.CoreCompileInputs.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.dll
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/refint/demos.dll
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.pdb
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/demos.genruntimeconfig.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/csharp1/project00/demos/obj/Debug/net6.0/ref/demos.dll
